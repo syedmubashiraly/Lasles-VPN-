@@ -1,0 +1,233 @@
+.nav-logo {
+    margin-left: 100px;
+}
+.VPN {
+    font-weight: 700;
+}
+.img {
+    text-align: center;
+}
+.img-head {
+    text-align: start;
+    margin-top: 80px;
+}
+.points {
+    line-height: 50px;
+    font-weight: 500;
+    margin-left: -40px;
+}
+ul {
+    list-style-type: none;
+}
+
+.hero-head {
+    text-align: center;
+    margin-top: 50px;
+}
+.heading {
+    font-weight: bold;
+}
+.card-border {
+    border-radius: 20px;
+}
+.card-items {
+    text-align: center;
+    margin-top: 40px;
+}
+.card-imgs {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.card-points {
+    line-height: 50px;
+    font-weight: 500;
+    text-align: start;
+    margin-left: 30px;
+    margin-top: 50px
+}
+.card-btn {
+    justify-content: center;
+    width: 173px ;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #F53838;
+    color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
+.card-items2 {
+    text-align: center;
+    margin-top: 170px;
+}
+.card-items3 {
+    text-align: center;
+    margin-top: 70px;
+}
+.card-items4 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+@media (min-width: 576px)and (max-width: 768px) { 
+    .card-border{
+        justify-content: center;
+        font-size: smaller;
+        line-height: normal;
+        height: 500px;
+    }
+    .card-imgs{
+        margin-left: 15px;
+        width: 80px;
+        height: 90px;
+    }
+    .card-items{
+        align-items: center;
+        line-height: 30px;
+    }
+    .card-items2 {
+        text-align: center;
+        margin-top: 100px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-items3 {
+        text-align: center;
+        margin-top: 55px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-items4 {
+        text-align: center;
+        margin-top: 40px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-points{
+        line-height: normal;
+        font-weight: lighter;
+        text-align: left;
+        margin-left: -40px;
+        margin-top: 0px;
+        font-size: smaller;
+    }
+    
+    .card-btn{
+        margin-left: 0%;
+        width: 120px;
+        height: 40px;
+    }
+    .heading {
+        font-weight: bold;
+        font-size: smaller;
+    }
+}
+
+
+@media (min-width: 768px)and (max-width: 992px) { 
+    .card-border{
+        justify-content: center;
+        font-size: medium;
+        height: 600px;
+    }
+    .card-imgs{
+        margin-left: 45px;
+        width: 80px;
+        height: 90px;
+    }
+    .card-items{
+        align-items: center;
+        line-height: 30px;
+    }
+    .card-items2 {
+        text-align: center;
+        margin-top: 135px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-items3 {
+        text-align: center;
+        margin-top: 55px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-items4 {
+        text-align: center;
+        margin-top: 10px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .card-points{
+        line-height: 40px;
+        font-weight: lighter;
+        text-align: left;
+        margin-left: -40px;
+        margin-top: 0px;
+        font-size: smaller;
+    }
+    
+    .card-btn{
+        margin-left: 25px;
+        width: 120px;
+        height: 40px;
+    }
+    .heading {
+        font-weight: bold;
+    }
+}
+
+
+.card-btn-1 {
+    width: 173px ;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #F53838;
+    color: white;
+    margin-top: 50px;
+
+}
+.img-1 {
+    margin-top: 80px;
+}
+.img-head-1 {
+    text-align: start;
+    margin-top: 120px;
+}
+.icon {
+    margin-top: 20px;
+}
+.icon-2 {
+    margin-top: 20px;
+    text-align: end;
+    margin-left: 20px;
+}
+.icon-3 {
+    margin-top: 20px;
+    text-align: end;
+    margin-left: 20px;
+}
+.social {
+    margin-left: -50px;
+    margin-top: 10px;
+}
+.social-2 {
+    margin-left: -30px;
+    margin-top: 10px;
+}
+.social-3 {
+    margin-left: -30px;
+    margin-top: 10px;
+}
+.social-para {
+    margin-top: -15px;
+    opacity: 50%;
+}
+
+
+
+.end-card {
+    margin-left: 80px;
+    margin-top: -30px;
+}
+
+
